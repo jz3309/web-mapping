@@ -1,5 +1,5 @@
 $("#education").on("click",function(){
-$("mainpart2").toggle();
+$("mainpart2").show();
 })
 
 $("#PROJECT").on("click",function(){
