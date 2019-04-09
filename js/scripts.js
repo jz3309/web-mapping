@@ -1,5 +1,5 @@
 $("#education").on("click",function(){
-$("mainpart2").show();
+$("mainpart2").attr("style","display:block;");
 })
 
 $("#PROJECT").on("click",function(){
