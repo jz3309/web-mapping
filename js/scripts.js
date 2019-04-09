@@ -1,6 +1,3 @@
-$("#education").on("click",function(){
-$('#mainpart').text('2018-2019 New York University;2014-2018 Sun Yat-sen University')
-})
 
 $("#PROJECT").on("click",function(){
 $('#mainpart').text('project1')
