@@ -1,3 +1,6 @@
+$("#education").on("click",function(){
+$("mainpart2").toggle();
+})
 
 $("#PROJECT").on("click",function(){
 $('#mainpart').text('project1')
