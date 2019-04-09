@@ -27,14 +27,14 @@ text-transform: none;
 #forimage {
     display: table;
     width: 80%;
-    height: 30%;
+    height: 100%;
     vertical-align: middle;
     box-sizing: border-box;
   min-height: 100px;
   position: absolute;
   left: 180px;
   top: 10px;
-      background-image: url("https://i.postimg.cc/yNDtfqmg/31096193222.jpg") !important;
+      background-image: url("https://i.postimg.cc/pTCn6SY8/310961932.jpg") !important;
     background-repeat: no-repeat !important;
     background-position: 50% 83% !important;
     background-size: 100% !important;
@@ -60,7 +60,7 @@ text-transform: none;
   min-height: 100px;
   position: absolute;
   left: 180px;
-  top: 370px;
+  top: 450px;
   padding: 70px;
 }
 
