@@ -14,11 +14,12 @@ $("#education").click(function(){
 });
 
 $("#PROJECT").on("click",function(){
-$('#mainpart').text('project1')
+$('#mainpart').text('NYPD Vehicle Collision Analysis : We procured the NYPD Motor Vehicle Collisions data from the NYC Open Data portal The dataset captures various aspects of accident information such as date and time, location,
+casualty and death numbers, contributing factors like drunk driving, sudden lane change, etc.')
 })
 
 $("#internship").on("click",function(){
-$('#mainpart').text('Internship')
+$('#mainpart').text('Internship : South China Sea Think Tank')
 })
 
 $("#facebook").on('click',function() {
