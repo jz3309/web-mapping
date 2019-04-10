@@ -1,3 +1,4 @@
+$("#mainpart2").css("display": 'none')
 
 $("#education").click(function(){
 
