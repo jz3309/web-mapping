@@ -11,7 +11,7 @@ $("#education").click(function(){
 
 	}
 
-});
+})
 
 $("#PROJECT").on("click",function(){
 $('#mainpart').text('NYPD Vehicle Collision Analysis : We procured the NYPD Motor Vehicle Collisions data from the NYC Open Data portal The dataset captures various aspects of accident information such as date and time, location,
