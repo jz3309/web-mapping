@@ -1,5 +1,14 @@
-$("#education").on("click",function(){
-$("mainpart2").attr("style","display:block;");
+$("#edication").click(function(){
+        var flag = $("#mainpart2").is(":hidden");
+
+        if(flag){
+
+            $("#mainpart2").show();
+        }else{
+            $("#mainpart2").hide();
+        }
+    });
+});
 })
 
 $("#PROJECT").on("click",function(){
