@@ -1,3 +1,4 @@
+$(function()){
 $("#edication").click(function(){
         var flag = $("#mainpart2").is(":hidden");
 
