@@ -1,16 +1,17 @@
-$(function()){
-$("#edication").click(function(){
-        var flag = $("#mainpart2").is(":hidden");
 
-        if(flag){
+$("#education").click(function(){
 
-            $("#mainpart2").show();
-        }else{
-            $("#mainpart2").hide();
-        }
-    });
+	if($("#mainpart2").css("display")=="none"){
+
+		$("#mainpart2").show(100);
+
+	}else{
+
+		$("#mainpart2").hide(100);
+
+	}
+
 });
-})
 
 $("#PROJECT").on("click",function(){
 $('#mainpart').text('project1')
