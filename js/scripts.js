@@ -1,18 +1,8 @@
-$("#mainpart2").css("display": 'none')
-
-$("#education").click(function(){
-
-	if($("#mainpart2").css("display")=="none"){
-
-		$("#mainpart2").show(100);
-
-	}else{
-
-		$("#mainpart2").hide(100);
-
-	}
-
+$("#education").on("click",function(){
+$('#mainpart').text("August 2018 - August 2019: Master - New York University ; August 2014 - June 2018: Bachelor - Sun Yat-sen University")
 })
+
+
 
 $("#PROJECT").on("click",function(){
 $('#mainpart').text('NYPD Vehicle Collision Analysis')
