@@ -49,6 +49,7 @@ text-transform: none;
   position: absolute;
   left: 20px;
   top: 200px;
+  box-shadow: 6px 0px 8px 0px rgba(0,0,0,0.74);
 }
 
 #mainpart {
@@ -86,11 +87,16 @@ outline-offset: 0px;
 }
 
 h3 {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 3;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 1;
 letter-spacing: 2px;
 word-spacing: 2px;
 color: #7B7B7B;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
 }
 
 #facebook {
